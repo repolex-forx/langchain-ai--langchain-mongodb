@@ -1,0 +1,11 @@
+{
+  "org": "langchain-ai",
+  "repo": "langchain-mongodb",
+  "versions": [
+    {
+      "commit": "3cad5ec43ebea9d60ce551355623910cb05d67bd",
+      "tag": "",
+      "parsed_at": "2026-11-08T00:51:58.349241+00:00"
+    }
+  ]
+}
