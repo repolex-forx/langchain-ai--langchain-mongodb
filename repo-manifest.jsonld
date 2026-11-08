@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/langchain-ai/langchain-mongodb/commit/3cad5ec43ebea9d60ce551355623910cb05d67bd",
       "git:hexsha": "3cad5ec43ebea9d60ce551355623910cb05d67bd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/langchain-ai/langchain-mongodb/commit/1c178f021748b05e9e75fe95d2e5aac7bc3b3586",
